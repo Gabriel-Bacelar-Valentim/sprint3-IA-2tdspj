@@ -1,0 +1,5 @@
+0 Calcario
+1 Argiloso
+2 arenoso
+3 humoso
+
