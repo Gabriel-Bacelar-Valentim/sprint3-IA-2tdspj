@@ -29,3 +29,5 @@ Com as funções load_model_from_h5 e load_class_names, eu carrego o modelo e os
 Por quê?
 
 Escolhi essas arquiteturas porque as camadas convolucionais são ótimas para extrair características das imagens, as camadas de pooling reduzem a complexidade e evitam o overfitting, e as camadas densas combinam essas características para a classificação final usando Softmax. Essas escolhas garantem que o modelo seja eficiente e preciso na tarefa de classificação de imagens.
+
+Nossa IA foi treinada a partir das imagens dentro das pastas testes
