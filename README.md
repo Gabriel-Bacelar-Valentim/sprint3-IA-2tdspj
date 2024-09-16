@@ -1,5 +1,15 @@
 # sprint3-IA-2tdspj
 
+Integrantes:
+
+Maria Luiza de Oliveira Lobo - 552169
+
+Gabriel Bacelar Valentim - 97901
+
+Luana Duque - 550813
+
+Leonardo Shoiti Araki - 98587
+
 1. Camadas Convolucionais
    
 No meu modelo, que eu carreguei no Google Colab, eu usei camadas convolucionais para extrair características das imagens. Essas camadas aplicam filtros para detectar padrões como bordas e texturas. Elas são fundamentais para processar a imagem e gerar mapas de características que são passados para as camadas seguintes.
